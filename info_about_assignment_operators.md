@@ -1,4 +1,4 @@
-## ** Assignment operators **
+## Assignment operators
 
 |Name|Shorthand operator|Shorthand operator|
 |-|-|-|
